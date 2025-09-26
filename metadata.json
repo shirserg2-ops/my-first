@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Generator from Ingredients",
+  "description": "An application that generates recipes in Russian based on the ingredients you have available, using the Gemini API.",
+  "requestFramePermissions": []
+}
